@@ -1,0 +1,29 @@
+header{
+    background-image: url(../images/bcgrnd.jpg);
+    height: 150px;
+    width:98%;
+    padding: 1%;
+    background-size: 100% auto;
+    background-color: aqua;
+
+}
+h1{
+    text-align: center;
+    color: #f0f0f0;
+    font-size: 2em;
+
+}
+body{
+    background-image: url(../images/back.jpg);
+    background-size: contain;
+}
+section{
+    font-size: 2em;
+}
+div{
+    font-size: 1.5em;
+}
+footer{
+    text-align: center;
+    font-size: 1.5em;
+}
