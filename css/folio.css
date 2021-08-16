@@ -1,34 +1,49 @@
 header {
-    background-image: url(../images/bcgrnd.jpg);
+    background-image: url(https://cdn-images.zety.com/pages/how_to_write_web_developer_resume.jpg);
     height: 150px;
     width: 98%;
     padding: 1%;
-    background-size: 100% auto;
+    background-size: cover;
     background-color: aqua;
 }
 
 h1 {
-    text-align: center;
-    color: #f0f0f0;
-    font-size: 2em;
+
+    font-size: 3.5em;
+    line-height:150px;
+    font-family: 'Style Script', cursive;
+    text-align: left;
+    color: #d54b4b;
+    margin-top: auto;
+    margin-bottom: auto;
 }
 
 body {
-    background-image: url(../images/back.jpg);
-    background-size: contain;
+    background-image: url(../images/adrien-olichon-AMatL4-XvQg-unsplash.jpg);
+    background-size: cover;
 }
 
 section {
     font-size: 2em;
+    float: right;
+    width: 25%;
+    text-align: center;
+    border: 2px solid #1a1212;
+    background-color: #353b3e;
+    margin-top:0px;
 }
 
 div {
     font-size: 1.5em;
+    width: 70%;
 }
 
 footer {
     text-align: center;
-    font-size: 1.5em;
+    font-size: 2.5em;
+    font-family: 'MonteCarlo', cursive;
+    color: #ff60b2;
+    font-weight: 900;
 }
 
 .our-projects {
@@ -39,6 +54,14 @@ footer {
 
 h2 {
     text-align: center;
-    font-family: Arial, Helvetica, sans-serif;
-    color: royalblue;
+    font-family: 'Patrick Hand', cursive;
+    color: #fffefe;
+    font-size: 3rem;
 }
+.main{
+color: #ffffff;
+border: 2px solid aliceblue;
+background-color: #353b3e;
+width:70%;
+}
+
